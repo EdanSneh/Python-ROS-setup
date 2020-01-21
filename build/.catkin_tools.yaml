@@ -1,0 +1,6 @@
+devel_space: /home/robotics/workspaces/robocup_ws/devel
+install: false
+install_space: /home/robotics/workspaces/robocup_ws/install
+profile: default
+source_space: /home/robotics/workspaces/robocup_ws/src
+workspace: /home/robotics/workspaces/robocup_ws
